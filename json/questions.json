@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "Which planet is closest to the Sun?",
+      "answers": [
+        {"answer": "Mars", "correct": false},
+        {"answer": "Venus", "correct": false},
+        {"answer": "Mercury", "correct": true},
+        {"answer": "Jupiter", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for the element gold?",
+      "answers": [
+        {"answer": "Ag", "correct": false},
+        {"answer": "Au", "correct": true},
+        {"answer": "Fe", "correct": false},
+        {"answer": "Hg", "correct": false}
+      ]
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "answers": [
+        {"answer": "William Shakespeare", "correct": true},
+        {"answer": "Charles Dickens", "correct": false},
+        {"answer": "Jane Austen", "correct": false},
+        {"answer": "Mark Twain", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "answers": [
+        {"answer": "Elephant", "correct": false},
+        {"answer": "Blue whale", "correct": true},
+        {"answer": "Giraffe", "correct": false},
+        {"answer": "Gorilla", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country is the largest by land area?",
+      "answers": [
+        {"answer": "Russia", "correct": true},
+        {"answer": "Canada", "correct": false},
+        {"answer": "China", "correct": false},
+        {"answer": "United States", "correct": false}
+      ]
+    },
+    {
+      "question": "Which city is the capital of Australia?",
+      "answers": [
+        {"answer": "Sydney", "correct": false},
+        {"answer": "Melbourne", "correct": false},
+        {"answer": "Canberra", "correct": true},
+        {"answer": "Brisbane", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "answers": [
+        {"answer": "CO2", "correct": false},
+        {"answer": "H2O", "correct": true},
+        {"answer": "CH4", "correct": false},
+        {"answer": "NaCl", "correct": false}
+      ]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answers": [
+        {"answer": "Vincent van Gogh", "correct": false},
+        {"answer": "Leonardo da Vinci", "correct": true},
+        {"answer": "Pablo Picasso", "correct": false},
+        {"answer": "Michelangelo", "correct": false}
+      ]
+    },
+    {
+      "question": "Which of these animals is a marsupial?",
+      "answers": [
+        {"answer": "Kangaroo", "correct": true},
+        {"answer": "Elephant", "correct": false},
+        {"answer": "Tiger", "correct": false},
+        {"answer": "Panda", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the capital city of Japan?",
+      "answers": [
+        {"answer": "Beijing", "correct": false},
+        {"answer": "Seoul", "correct": false},
+        {"answer": "Tokyo", "correct": true},
+        {"answer": "Bangkok", "correct": false}
+      ]
+    }
+  ]
+}
