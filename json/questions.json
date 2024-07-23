@@ -1,93 +1,93 @@
 {
   "questions": [
     {
-      "question": "Which planet is closest to the Sun?",
+      "question": "What does CPU stand for?",
       "answers": [
-        {"answer": "Mars", "correct": false},
-        {"answer": "Venus", "correct": false},
-        {"answer": "Mercury", "correct": true},
-        {"answer": "Jupiter", "correct": false}
+        {"answer": "Central Processing Unit", "correct": true},
+        {"answer": "Computer Processing Unit", "correct": false},
+        {"answer": "Central Processor Unit", "correct": false},
+        {"answer": "Core Processing Unit", "correct": false}
       ]
     },
     {
-      "question": "What is the chemical symbol for the element gold?",
+      "question": "What is the process of converting a high-level programming language to machine code called?",
       "answers": [
-        {"answer": "Ag", "correct": false},
-        {"answer": "Au", "correct": true},
-        {"answer": "Fe", "correct": false},
-        {"answer": "Hg", "correct": false}
+        {"answer": "Compilation", "correct": true},
+        {"answer": "Execution", "correct": false},
+        {"answer": "Interpretation", "correct": false},
+        {"answer": "Debugging", "correct": false}
       ]
     },
     {
-      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "question": "Which data structure uses Last In First Out (LIFO) ordering?",
       "answers": [
-        {"answer": "William Shakespeare", "correct": true},
-        {"answer": "Charles Dickens", "correct": false},
-        {"answer": "Jane Austen", "correct": false},
-        {"answer": "Mark Twain", "correct": false}
+        {"answer": "Queue", "correct": false},
+        {"answer": "Stack", "correct": true},
+        {"answer": "Heap", "correct": false},
+        {"answer": "Tree", "correct": false}
       ]
     },
     {
-      "question": "What is the largest mammal in the world?",
+      "question": "What does HTML stand for?",
       "answers": [
-        {"answer": "Elephant", "correct": false},
-        {"answer": "Blue whale", "correct": true},
-        {"answer": "Giraffe", "correct": false},
-        {"answer": "Gorilla", "correct": false}
+        {"answer": "Hyper Text Markup Language", "correct": true},
+        {"answer": "Hyperlink and Text Markup Language", "correct": false},
+        {"answer": "Home Tool Markup Language", "correct": false},
+        {"answer": "Hyper Text Model Language", "correct": false}
       ]
     },
     {
-      "question": "Which country is the largest by land area?",
+      "question": "Which sorting algorithm has the worst-case time complexity of O(n^2)?",
       "answers": [
-        {"answer": "Russia", "correct": true},
-        {"answer": "Canada", "correct": false},
-        {"answer": "China", "correct": false},
-        {"answer": "United States", "correct": false}
+        {"answer": "Merge Sort", "correct": false},
+        {"answer": "Quick Sort", "correct": false},
+        {"answer": "Bubble Sort", "correct": true},
+        {"answer": "Heap Sort", "correct": false}
       ]
     },
     {
-      "question": "Which city is the capital of Australia?",
+      "question": "What is the primary purpose of an operating system?",
       "answers": [
-        {"answer": "Sydney", "correct": false},
-        {"answer": "Melbourne", "correct": false},
-        {"answer": "Canberra", "correct": true},
-        {"answer": "Brisbane", "correct": false}
+        {"answer": "To provide a user interface for interacting with the computer", "correct": false},
+        {"answer": "To manage the hardware and software resources of the system", "correct": true},
+        {"answer": "To run applications like word processors and web browsers", "correct": false},
+        {"answer": "To store and retrieve data from disk storage", "correct": false}
       ]
     },
     {
-      "question": "What is the chemical formula for water?",
+      "question": "Which protocol is used for secure communication over a computer network?",
       "answers": [
-        {"answer": "CO2", "correct": false},
-        {"answer": "H2O", "correct": true},
-        {"answer": "CH4", "correct": false},
-        {"answer": "NaCl", "correct": false}
+        {"answer": "HTTP", "correct": false},
+        {"answer": "FTP", "correct": false},
+        {"answer": "SSH", "correct": true},
+        {"answer": "SMTP", "correct": false}
       ]
     },
     {
-      "question": "Who painted the Mona Lisa?",
+      "question": "What does SQL stand for?",
       "answers": [
-        {"answer": "Vincent van Gogh", "correct": false},
-        {"answer": "Leonardo da Vinci", "correct": true},
-        {"answer": "Pablo Picasso", "correct": false},
-        {"answer": "Michelangelo", "correct": false}
+        {"answer": "Simple Query Language", "correct": false},
+        {"answer": "Structured Query Language", "correct": true},
+        {"answer": "Standard Query Language", "correct": false},
+        {"answer": "System Query Language", "correct": false}
       ]
     },
     {
-      "question": "Which of these animals is a marsupial?",
+      "question": "Which data structure is typically implemented using a FIFO (First In First Out) approach?",
       "answers": [
-        {"answer": "Kangaroo", "correct": true},
-        {"answer": "Elephant", "correct": false},
-        {"answer": "Tiger", "correct": false},
-        {"answer": "Panda", "correct": false}
+        {"answer": "Stack", "correct": false},
+        {"answer": "Queue", "correct": true},
+        {"answer": "Heap", "correct": false},
+        {"answer": "Tree", "correct": false}
       ]
     },
     {
-      "question": "What is the capital city of Japan?",
+      "question": "In object-oriented programming, what is encapsulation?",
       "answers": [
-        {"answer": "Beijing", "correct": false},
-        {"answer": "Seoul", "correct": false},
-        {"answer": "Tokyo", "correct": true},
-        {"answer": "Bangkok", "correct": false}
+        {"answer": "The process of breaking down a complex problem into smaller parts", "correct": false},
+        {"answer": "The ability to define a new data type", "correct": false},
+        {"answer": "The bundling of data and methods that operate on the data into a single unit", "correct": true},
+        {"answer": "The process of hiding the implementation details of a class", "correct": false}
       ]
     }
   ]
