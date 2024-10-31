@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.word {
+    font-size: 2em;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.translation {
+    font-size: 1.5em;
+    margin-top: 20px;
+    color: #555;
+}
+
+.buttons {
+    margin-bottom: 20px; /* Adjust margin if needed */
+}
+
+button {
+    padding: 10px 15px;
+    margin: 0 10px;
+    font-size: 1em;
+    cursor: pointer;
+}
