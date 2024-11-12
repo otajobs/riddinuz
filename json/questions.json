@@ -1,93 +1,93 @@
 {
   "questions": [
     {
-      "question": "What does CPU stand for?",
+      "question": "What is the German word for 'apple'?",
       "answers": [
-        {"answer": "Central Processing Unit", "correct": true},
-        {"answer": "Computer Processing Unit", "correct": false},
-        {"answer": "Central Processor Unit", "correct": false},
-        {"answer": "Core Processing Unit", "correct": false}
+        {"answer": "Apfel", "correct": true},
+        {"answer": "Birne", "correct": false},
+        {"answer": "Kirsche", "correct": false},
+        {"answer": "Banane", "correct": false}
       ]
     },
     {
-      "question": "What is the process of converting a high-level programming language to machine code called?",
+      "question": "How do you say 'Good morning' in German?",
       "answers": [
-        {"answer": "Compilation", "correct": true},
-        {"answer": "Execution", "correct": false},
-        {"answer": "Interpretation", "correct": false},
-        {"answer": "Debugging", "correct": false}
+        {"answer": "Guten Morgen", "correct": true},
+        {"answer": "Guten Abend", "correct": false},
+        {"answer": "Hallo", "correct": false},
+        {"answer": "Tschüss", "correct": false}
       ]
     },
     {
-      "question": "Which data structure uses Last In First Out (LIFO) ordering?",
+      "question": "Which of the following is the German translation for 'dog'?",
       "answers": [
-        {"answer": "Queue", "correct": false},
-        {"answer": "Stack", "correct": true},
-        {"answer": "Heap", "correct": false},
-        {"answer": "Tree", "correct": false}
+        {"answer": "Katze", "correct": false},
+        {"answer": "Hund", "correct": true},
+        {"answer": "Vogel", "correct": false},
+        {"answer": "Pferd", "correct": false}
       ]
     },
     {
-      "question": "What does HTML stand for?",
+      "question": "What does 'Danke' mean in English?",
       "answers": [
-        {"answer": "Hyper Text Markup Language", "correct": true},
-        {"answer": "Hyperlink and Text Markup Language", "correct": false},
-        {"answer": "Home Tool Markup Language", "correct": false},
-        {"answer": "Hyper Text Model Language", "correct": false}
+        {"answer": "Please", "correct": false},
+        {"answer": "Thank you", "correct": true},
+        {"answer": "Excuse me", "correct": false},
+        {"answer": "Goodbye", "correct": false}
       ]
     },
     {
-      "question": "Which sorting algorithm has the worst-case time complexity of O(n^2)?",
+      "question": "Which of the following is the German word for 'book'?",
       "answers": [
-        {"answer": "Merge Sort", "correct": false},
-        {"answer": "Quick Sort", "correct": false},
-        {"answer": "Bubble Sort", "correct": true},
-        {"answer": "Heap Sort", "correct": false}
+        {"answer": "Buch", "correct": true},
+        {"answer": "Heft", "correct": false},
+        {"answer": "Zeitschrift", "correct": false},
+        {"answer": "Stift", "correct": false}
       ]
     },
     {
-      "question": "What is the primary purpose of an operating system?",
+      "question": "How do you say 'Thank you very much' in German?",
       "answers": [
-        {"answer": "To provide a user interface for interacting with the computer", "correct": false},
-        {"answer": "To manage the hardware and software resources of the system", "correct": true},
-        {"answer": "To run applications like word processors and web browsers", "correct": false},
-        {"answer": "To store and retrieve data from disk storage", "correct": false}
+        {"answer": "Danke schön", "correct": true},
+        {"answer": "Guten Morgen", "correct": false},
+        {"answer": "Bis später", "correct": false},
+        {"answer": "Auf Wiedersehen", "correct": false}
       ]
     },
     {
-      "question": "Which protocol is used for secure communication over a computer network?",
+      "question": "What does 'Wie geht's?' mean in English?",
       "answers": [
-        {"answer": "HTTP", "correct": false},
-        {"answer": "FTP", "correct": false},
-        {"answer": "SSH", "correct": true},
-        {"answer": "SMTP", "correct": false}
+        {"answer": "How are you?", "correct": true},
+        {"answer": "Where are you?", "correct": false},
+        {"answer": "What is your name?", "correct": false},
+        {"answer": "How old are you?", "correct": false}
       ]
     },
     {
-      "question": "What does SQL stand for?",
+      "question": "What is the German word for 'school'?",
       "answers": [
-        {"answer": "Simple Query Language", "correct": false},
-        {"answer": "Structured Query Language", "correct": true},
-        {"answer": "Standard Query Language", "correct": false},
-        {"answer": "System Query Language", "correct": false}
+        {"answer": "Schule", "correct": true},
+        {"answer": "Universität", "correct": false},
+        {"answer": "Arbeit", "correct": false},
+        {"answer": "Bibliothek", "correct": false}
       ]
     },
     {
-      "question": "Which data structure is typically implemented using a FIFO (First In First Out) approach?",
+      "question": "How do you say 'I love you' in German?",
       "answers": [
-        {"answer": "Stack", "correct": false},
-        {"answer": "Queue", "correct": true},
-        {"answer": "Heap", "correct": false},
-        {"answer": "Tree", "correct": false}
+        {"answer": "Ich liebe dich", "correct": true},
+        {"answer": "Ich mag dich", "correct": false},
+        {"answer": "Du bist toll", "correct": false},
+        {"answer": "Ich finde dich schön", "correct": false}
       ]
     },
     {
-      "question": "In object-oriented programming, what is encapsulation?",
+      "question": "Which of the following is the German word for 'thank you'?",
       "answers": [
-        {"answer": "The process of breaking down a complex problem into smaller parts", "correct": false},
-        {"answer": "The ability to define a new data type", "correct": false},
-        {"answer": "The bundling of data and methods that operate on the data into a single unit", "correct": true},
-        {"answer": "The process of hiding the implementation details of a class", "correct": false}
+        {"answer": "Bitte", "correct": false},
+        {"answer": "Danke", "correct": true},
+        {"answer": "Entschuldigung", "correct": false},
+        {"answer": "Ja", "correct": false}
       ]
     }
   ]
