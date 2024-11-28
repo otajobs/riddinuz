@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "What is the German word for \"the\" when referring to a masculine noun in the nominative case?",
+      "answers": [
+        {"answer": "Der", "correct": true, "comment": "\"Der\" is used with masculine nouns in the nominative case."},
+        {"answer": "Die", "correct": false, "comment": "\"Die\" is used with feminine nouns in the nominative case."},
+        {"answer": "Das", "correct": false, "comment": "\"Das\" is used with neuter nouns in the nominative case."},
+        {"answer": "Den", "correct": false, "comment": "\"Den\" is used with masculine nouns in the accusative case."}
+      ]
+    },
+    {
+      "question": "Which of the following sentences is grammatically correct in German?",
+      "answers": [
+        {"answer": "Ich bin gehen zur Schule.", "correct": false, "comment": "Incorrect word order. 'Ich bin gehen' is not correct."},
+        {"answer": "Ich gehe zur Schule.", "correct": true, "comment": "Correct word order: subject + verb + destination."},
+        {"answer": "Gehe ich zur Schule.", "correct": false, "comment": "Incorrect word order. The subject should come first."},
+        {"answer": "Ich zur Schule gehe.", "correct": false, "comment": "Incorrect word order. The verb should follow the subject."}
+      ]
+    },
+    {
+      "question": "What is the German translation of the word \"book\"?",
+      "answers": [
+        {"answer": "Buch", "correct": true, "comment": "\"Buch\" is the correct singular form of \"book\"."},
+        {"answer": "Bücher", "correct": false, "comment": "\"Bücher\" is the plural form of \"book\"."},
+        {"answer": "Bucht", "correct": false, "comment": "\"Bucht\" means \"bay\" in German, not \"book\"."},
+        {"answer": "Bucher", "correct": false, "comment": "\"Bucher\" is a common misspelling of \"Bücher\"."}
+      ]
+    },
+    {
+      "question": "Which case is used to indicate the direct object in a sentence in German?",
+      "answers": [
+        {"answer": "Nominative", "correct": false, "comment": "The nominative case is used for the subject of the sentence."},
+        {"answer": "Accusative", "correct": true, "comment": "The accusative case is used for the direct object of the sentence."},
+        {"answer": "Dative", "correct": false, "comment": "The dative case is used for the indirect object of the sentence."},
+        {"answer": "Genitive", "correct": false, "comment": "The genitive case is used to show possession, not for direct objects."}
+      ]
+    },
+    {
+      "question": "Which of the following is the correct form of the verb 'to be' in the 1st person singular?",
+      "answers": [
+        {"answer": "Sein", "correct": false, "comment": "\"Sein\" is the infinitive form of the verb."},
+        {"answer": "Bin", "correct": true, "comment": "The correct form of 'to be' in the 1st person singular is 'bin'."},
+        {"answer": "Bist", "correct": false, "comment": "\"Bist\" is the 2nd person singular form of 'to be'."},
+        {"answer": "Ist", "correct": false, "comment": "\"Ist\" is the 3rd person singular form of 'to be'."}
+      ]
+    },
+    {
+      "question": "What is the German word for \"cat\"?",
+      "answers": [
+        {"answer": "Katze", "correct": true, "comment": "\"Katze\" is the correct word for \"cat\" in German."},
+        {"answer": "Hund", "correct": false, "comment": "\"Hund\" means \"dog\" in German."},
+        {"answer": "Vogel", "correct": false, "comment": "\"Vogel\" means \"bird\" in German."},
+        {"answer": "Maus", "correct": false, "comment": "\"Maus\" means \"mouse\" in German."}
+      ]
+    },
+    {
+      "question": "Which of the following is the correct form of the word \"good\" in the comparative?",
+      "answers": [
+        {"answer": "Gut", "correct": false, "comment": "\"Gut\" is the positive form of the adjective."},
+        {"answer": "Besser", "correct": true, "comment": "\"Besser\" is the comparative form of \"gut\"."},
+        {"answer": "Best", "correct": false, "comment": "\"Best\" is the superlative form of \"gut\"."},
+        {"answer": "Guter", "correct": false, "comment": "\"Guter\" is the masculine nominative form of the adjective."}
+      ]
+    },
+    {
+      "question": "What is the correct form of the definite article for a feminine noun in the accusative case?",
+      "answers": [
+        {"answer": "Die", "correct": true, "comment": "The definite article \"die\" is used for feminine nouns in the accusative case."},
+        {"answer": "Der", "correct": false, "comment": "\"Der\" is used for masculine nouns in the nominative case."},
+        {"answer": "Das", "correct": false, "comment": "\"Das\" is used for neuter nouns in the nominative and accusative cases."},
+        {"answer": "Den", "correct": false, "comment": "\"Den\" is used for masculine nouns in the accusative case."}
+      ]
+    },
+    {
+      "question": "Which of the following sentences uses the correct word order in a yes/no question?",
+      "answers": [
+        {"answer": "Du bist mein Freund?", "correct": false, "comment": "In yes/no questions, the verb should come first."},
+        {"answer": "Bist du mein Freund?", "correct": true, "comment": "In yes/no questions, the verb comes before the subject."},
+        {"answer": "Mein Freund bist du?", "correct": false, "comment": "Incorrect word order. The verb should come before the subject."},
+        {"answer": "Du mein Freund bist?", "correct": false, "comment": "Incorrect word order. The verb should be at the beginning of the sentence."}
+      ]
+    },
+    {
+      "question": "What is the correct form of the word \"I\" in German?",
+      "answers": [
+        {"answer": "Ich", "correct": true, "comment": "\"Ich\" is the correct word for \"I\" in German."},
+        {"answer": "Du", "correct": false, "comment": "\"Du\" is the informal word for \"you\" in German."},
+        {"answer": "Er", "correct": false, "comment": "\"Er\" means \"he\" in German."},
+        {"answer": "Sie", "correct": false, "comment": "\"Sie\" means \"she\" or the formal \"you\" in German."}
+      ]
+    }
+  ]
+}
