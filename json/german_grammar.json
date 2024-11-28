@@ -1,6 +1,7 @@
 {
   "questions": [
     {
+      "id": 1,
       "question": "What is the German word for \"the\" when referring to a masculine noun in the nominative case?",
       "answers": [
         {"answer": "Der", "correct": true, "comment": "\"Der\" is used with masculine nouns in the nominative case."},
@@ -10,6 +11,7 @@
       ]
     },
     {
+      "id": 2,
       "question": "Which of the following sentences is grammatically correct in German?",
       "answers": [
         {"answer": "Ich bin gehen zur Schule.", "correct": false, "comment": "Incorrect word order. 'Ich bin gehen' is not correct."},
@@ -19,6 +21,7 @@
       ]
     },
     {
+      "id": 3,
       "question": "What is the German translation of the word \"book\"?",
       "answers": [
         {"answer": "Buch", "correct": true, "comment": "\"Buch\" is the correct singular form of \"book\"."},
@@ -28,6 +31,7 @@
       ]
     },
     {
+      "id": 4,
       "question": "Which case is used to indicate the direct object in a sentence in German?",
       "answers": [
         {"answer": "Nominative", "correct": false, "comment": "The nominative case is used for the subject of the sentence."},
@@ -37,6 +41,7 @@
       ]
     },
     {
+      "id": 5,
       "question": "Which of the following is the correct form of the verb 'to be' in the 1st person singular?",
       "answers": [
         {"answer": "Sein", "correct": false, "comment": "\"Sein\" is the infinitive form of the verb."},
@@ -46,6 +51,7 @@
       ]
     },
     {
+      "id": 6,
       "question": "What is the German word for \"cat\"?",
       "answers": [
         {"answer": "Katze", "correct": true, "comment": "\"Katze\" is the correct word for \"cat\" in German."},
@@ -55,6 +61,7 @@
       ]
     },
     {
+      "id": 7,
       "question": "Which of the following is the correct form of the word \"good\" in the comparative?",
       "answers": [
         {"answer": "Gut", "correct": false, "comment": "\"Gut\" is the positive form of the adjective."},
@@ -64,6 +71,7 @@
       ]
     },
     {
+      "id": 8,
       "question": "What is the correct form of the definite article for a feminine noun in the accusative case?",
       "answers": [
         {"answer": "Die", "correct": true, "comment": "The definite article \"die\" is used for feminine nouns in the accusative case."},
@@ -72,7 +80,8 @@
         {"answer": "Den", "correct": false, "comment": "\"Den\" is used for masculine nouns in the accusative case."}
       ]
     },
-    {
+      {
+        "id": 10,
       "question": "Which of the following sentences uses the correct word order in a yes/no question?",
       "answers": [
         {"answer": "Du bist mein Freund?", "correct": false, "comment": "In yes/no questions, the verb should come first."},
@@ -82,6 +91,7 @@
       ]
     },
     {
+      "id": 9,
       "question": "What is the correct form of the word \"I\" in German?",
       "answers": [
         {"answer": "Ich", "correct": true, "comment": "\"Ich\" is the correct word for \"I\" in German."},
