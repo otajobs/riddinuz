@@ -1,0 +1,12 @@
+{
+	"questions": [
+    {
+      "id": 1,
+      "question": "Is this statement true? Each thread can have multiple stacks, but there is only one heap.",
+      "answers": [
+        {"answer": "True", "correct": true, "comment": "Correct!"},
+        {"answer": "False", "correct": false, "comment": "Wrong!"},
+      ]
+    }
+	]
+}
